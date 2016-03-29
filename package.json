@@ -1,0 +1,19 @@
+{
+  "name": "vocab",
+  "version": "1.0.0",
+  "description": "Vocabular uses RESTful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "vocab": "index.js"
+  },
+  "keywords": [
+    "RESTful",
+    "web-service",
+    "command-line"
+  ],
+  "author": "kassergey",
+  "license": "ISC"
+}
